@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spec-kit
+.specify/cache/
+
+# Logs
+*.log
+logs/
